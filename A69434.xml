@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account at large of the proceedings at the Sessions-House in the Old-Bayly, on the 24 of November 1681 in relation to the bill of high treason prefer'd against the Earl of Shaftsbury, which was foun'd [sic] ignoramus giving an account of the jury, the evidence, the paper read in court, and all the most remarkable passages that hapned during the whole proceeding.</title>
+            <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69434</idno>
+            <idno type="STC">Wing A168B</idno>
+            <idno type="STC">ESTC R24959</idno>
+            <idno type="EEBO-CITATION">08704360</idno>
+            <idno type="OCLC">ocm 08704360</idno>
+            <idno type="VID">41593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1258:40 or 2261:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account at large of the proceedings at the Sessions-House in the Old-Bayly, on the 24 of November 1681 in relation to the bill of high treason prefer'd against the Earl of Shaftsbury, which was foun'd [sic] ignoramus giving an account of the jury, the evidence, the paper read in court, and all the most remarkable passages that hapned during the whole proceeding.</title>
+                  <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Roger Evens,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Item at 1258:40 identified as E964 (number cancelled in Wing 2nd ed.).</note>
+                  <note>Pages have print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Trials, litigation, etc.</term>
+               <term>Treason --  Great Britain.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:41593:1"/>
+            <pb n="1" facs="tcp:41593:1"/>
+            <head>An ACCOUNT at Large, of the PROCEEDINGS at The Seſſions-Houſe In the <hi>Old-Bayly,</hi> on the 24 of <hi>November</hi> 1681. In Relation to the Bill of <hi>High Treaſon,</hi> prefer'd againſt the Earl of Shaftsbury, Which was foun'd <hi>Ignoramus.</hi>
+            </head>
+            <head>Giving an <hi>Account</hi> of the <hi>JURY,</hi> the <hi>Evidence,</hi> the <hi>Pa<g ref="char:EOLhyphen"/>per</hi> read in Court, and all the most Remarkable Paſſa<g ref="char:EOLhyphen"/>ges that hapned during the whole <hi>Proceeding.</hi>
+            </head>
+            <head>AS ALSO The Proceedings at the Kings-Bench-Bar, at <hi>Weſtminſter,</hi> on the 28 paſt: giving an Account of the Bailing of the Right Honorable <hi>Anthony</hi> Earl of <hi>Shaftsbury, William,</hi> Lord <hi>Howard</hi> Baron of <hi>Eſcreik:</hi> and alſo Edward<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ker, <hi>John Wilmore,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>muel Wilſon;</hi> with the Names of ſuch Perſons of Ho<g ref="char:EOLhyphen"/>nour, and others, that became Sureties, together with many other Remarkable Paſſages.</head>
+            <p>ON the 24 day of <hi>November</hi> 1681. by virtue of a Special Commiſſi<g ref="char:EOLhyphen"/>on of <hi>Oyer</hi> and <hi>Terminer,</hi> a Court was hold at the Seſſions-Houſe in the <hi>Old-Baily,</hi> where moſt of the Judges being preſent, the Jury ſummoned to attend, were called, being about 40 in Number, all worthy Gentlemen and ſubſtantial Citizens, out of which theſe fol<g ref="char:EOLhyphen"/>lowing were Sworn, according as the Law in ſuch Caſes requires, viz. Sir <hi>Samu<g ref="char:EOLhyphen"/>el
+<pb n="2" facs="tcp:41593:2"/>
+Bernardiſton,</hi> Foreman, <hi>Thomas Papillion,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John du Bois,</hi> 
+               <abbr>Eſq</abbr> Mr. <hi>Hearle, Edward Rudg, Humphry Edwin, John Morrice, Michael Godfrey, Edmund Harriſon, Joſeph Wright, John Cox, Thomas Shepherd, Thomas Parker, John Flavel, Leonard Robinſon, William Empſon, Joſeph Richardſon, John Lane,</hi> Mr. <hi>Kenrick,</hi> Mr. <hi>Hall;</hi> Af<g ref="char:EOLhyphen"/>ter the Jurors were Sworn and had taken their Places, and the Commiſſion by which the Court ſate, Read; the Lord Chief Juſtice <hi>Pemberton</hi> told them, Though he expected the Charge might be given before he came (it not being uſual for him to give it in that Court,) but finding it was not delivered, he thought it very convenient, for their better Information, to let them under<g ref="char:EOLhyphen"/>ſtand what they were to Enquire into. After which his Lordſhip proceeded to open the Statutes of the 25 of <hi>Edward</hi> the III. and that of the 13 of His preſent Majeſty, laying open from Point to Point, the true intent and meaning of the ſaid Statutes, and then told them, That by Virtue of the Commiſſion by which they were Impannell'd and Sworn Jurors, they were to Inquire of all Treaſons, Miſpriſions of Treaſon, Fellonies and the like; and that they were to find ac<g ref="char:EOLhyphen"/>cording to the Evidence that ſhould be given in behalf of the King, and that unleſs they knew any thing of their own certain knowledge, they were not to queſtion the Credit of the Witneſſes, &amp;c.</p>
+            <p>After which an Indictment of High-Treaſon againſt <hi>Anthony</hi> Earl of <hi>Shafts<g ref="char:EOLhyphen"/>bury</hi> was read, the purport of which was, That <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he the ſaid <hi>Anthony,</hi> Earl of <hi>Shaftsbury,</hi> as a falſe Traytor of our Sovereign Lord the King, had VVilfully, Maliciouſly and Trayterouſly Conſpired and Imagined to compaſs the Death of our Sovereign, him to Depoſe, Murther and put to final Deſtruction, by Combining with ſeveral Falſe Traytors to raiſe Rebellion, and Levy VVar within His Maje<g ref="char:EOLhyphen"/>ſties Dominions, and that in Order thereunto ſeveral Conſults had been held, not only at his own Houſe, but likewiſe in ſeveral other places within the City of <hi>London,</hi> where, by ſeveral expreſs words, the ſame had been ſigni<g ref="char:EOLhyphen"/>fied.</p>
+            <p>After the Indictment was read, the Jury went out to conſider of the Coppy of their Oath, and to conclude about the Examination of the VVitneſs, then returning they made it their Requeſt to the Court, That they might have the Examination of the VVitneſſes in private, by reaſon ſeveral of them were not otherwiſe well ſatisfied in their Oath, which expreſſed That they ſhould keep their own and the Kings Secrets, which they ſaid they could not do, if a Pub<g ref="char:EOLhyphen"/>lick Examination was made; Mr. <hi>Godfrey,</hi> one of the Jury Declaring, That it had not a little troubled him, That the Evidence upon the Tryal of <hi>Plunket,</hi> were admitted to ſtand together to hear each others Evidence; he being upon the Jury that found the Bill againſt him; but the Kings Council oppoſing this their Requeſt, the Court told them, It could not be granted; for that it was the uſual Cuſtom, ſome years ſince, to Examine all Evidence in Court, but it growing too tedious, they were forced to diſpence with their Examination in private; Then they deſired, That if they might not Examine them in private, that it might be Recorded That their Requeſt was denyed in that particular; but the Court an<g ref="char:EOLhyphen"/>ſwered, That they could not Record any ſuch thing, but that there were VVit<g ref="char:EOLhyphen"/>neſſes enough to take notice of what had paſſed; but that they would order the VVitneſſes to be put apart, if they deſired it, and brought one by one, and after they had given their Evidence they ſhould again Examine them, and ask them any Lawful Queſtions they pleaſed; After which they deſired to have the VVarrant of Commitment, which the Court told them could not be had, for
+<pb n="3" facs="tcp:41593:2"/>
+the Lieutenant of the Tower would be ſure to keep That to indemnifie himſelf, and it was not in their power to oblige him to deliver it, then they acquieſcing with the pleaſure of the Court, the Kings Counſel ordered the VVitneſſes to be Sworn, the firſt of which was Mr. <hi>Brathwaite,</hi> one of the Clerks of the Coun<g ref="char:EOLhyphen"/>cil, who ſwore, that the Paper he then produced in Court, was the ſame Paper that was delivered him by Mr. <hi>Gwin,</hi> another of the Clerks of the Council, who was ſent to ſearch the Earls Papers on the 2 of July, at which time he was Com<g ref="char:EOLhyphen"/>mitted, and That he delivered it into the Poſſeſſion of Mr. Secretary <hi>Jenkins,</hi> not permitting any before to have it in their Poſſeſſion from the time it was delive<g ref="char:EOLhyphen"/>red to him; Next Mr Secretary <hi>Jenkins</hi> gave Evidence, That he knew it to be the ſame Paper that was delivered to him by Mr. <hi>Brathwaite;</hi> Then Mr. <hi>Gwin</hi> be<g ref="char:EOLhyphen"/>ing Sworn, Declared, That he being ſent by Order of Council to ſearch the Earls Papers and having received the Keys of his Cloſet, found the ſaid Paper a<g ref="char:EOLhyphen"/>mongſt ſeveral others in a Velvet Bag, and afterwards put it into a Trunk with the reſt of the Papers, and by the Earls Order ſet his own Seal upon it, and cauſed it to be brought to the Council Chamber.</p>
+            <p>Then the Court gave Order for the Reading the ſaid Paper, which was done accordingly, the Subſtance of it being, That there had of a long time been and now was, a Helliſh PLOT carried on by the Papiſts to deſtroy the Prote<g ref="char:EOLhyphen"/>ſtants and Introduce Popery and Arbitrary Goverment; and that it was Coun<g ref="char:EOLhyphen"/>tenanced, Abetted and Incouraged by <hi>J. D.</hi> of <hi>Y.</hi> who having moſt of the Pla<g ref="char:EOLhyphen"/>ces of Preferment and Truſt, as well Eccleſiaſtical as Civil, at his own diſpoſal, he diſpoſed of them to whom he pleaſed, to the great ſtrengthning of his Par<g ref="char:EOLhyphen"/>ty and Incouragment of the Papiſts; whoſe hopes ſolely depended on him: and that the often Prorogations and Diſſolutions, were occaſioned by reaſon they endeavoured to hinder this Inundation of Popery. That the ſaid D. had wa<g ref="char:EOLhyphen"/>ſted the Ammunition and Treaſure of the Nation, and that they were reſolved to have a Bill paſſed to expel him the Kingdom, and Exclude him from the Succeſſion to the Crown, &amp;c. After which, it appearing, as if it had been writ<g ref="char:EOLhyphen"/>ten to ſome perſon, it went on to Counſel him, not to forget his Solemn Promiſe to all true Proteſtants, nor deſiſt from Subſcribing to what was under-written, which was a kind of an Aſſociation, the Subſtance of which follows:</p>
+            <p>I <hi>A. B.</hi> Promiſe and Vow to defend the Proteſtant Religion againſt Popery, and all In<g ref="char:EOLhyphen"/>novations upon the Liberty of the Subject, and all Arbitrary proceedings: That <hi>J. D.</hi> of <hi>Y.</hi> ſhould be Depoſ d in regard he has declar'd for Popery, and That they would by force deſtroy all ſuch as ſhould oppoſe or hinder this their Solemn Aſſociation, and that leaſt the Deſign ſhould be hindered by Giddyheaded, or ſelf ended Perſons; They ſhould apply themſelves to the Parliament, and be ſubject in all things to ſuch Officers as they ſhould think fit to ſet over them, &amp;c.</p>
+            <p>After this the Evidence were Sworn one by one, as they were called, the next that was Sworn, after thoſe that were before mentioned was <hi>John Booth,</hi> who gave Evidence, that being acquainted with Captain <hi>Wilkinſon,</hi> and having frequent diſcourſe with him about divers af<g ref="char:EOLhyphen"/>fairs, eſpecially about his going with him to <hi>Carolina,</hi> he told him, there would be advancement ſufficient at home for ſuch men as he was, for he would ſee ſtrange Alterations e'r long, and that if he would provide himſelf a Horſe and Arms, and Liſt himſelf under Him, he would give him a Horſe for his Man, for as much, as he was to Command a Troop of 50 for the Earl; and af<g ref="char:EOLhyphen"/>ter
+<pb n="4" facs="tcp:41593:3"/>
+ſuch like Diſcourſes having found him pliable, he introduced him into the Earls preſence, who amongſt other things told him, That he had peruſed the Liſt of the Members choſen to ſerve in Parliament, and found that they were ſuch as would inſiſt upon the Bill for Excluſion of the D of <hi>Y.</hi> upon the Repeal<g ref="char:EOLhyphen"/>ing the 35 of <hi>Eliſabeth,</hi> and the bringing a Bill, for the Uniting the Proteſtant Diſſenters. In which they were ſure to be oppoſed, by which he foreſaw a Di<g ref="char:EOLhyphen"/>viſion would Ariſe, and therefore all the Members would come Armed, and well Attended, himſelf being to have the Attendence of 50 Gentlemen, which he deſigned ſhould be Commanded by Captain <hi>Wilkinſon,</hi> and every one of them to to have his Man; and that if the King would not comply with their Demands, they would oblige him to it by Force, for the greateſt part of the Nation were on their ſide, and although he had called the Parliament at <hi>Oxford,</hi> thinking to o<g ref="char:EOLhyphen"/>ver-Awe them with his Guards; yet their Force would far exceed them, upon which, being asked, Whether theſe Men were Liſted? he ſaid, Yes, and that they lay about <hi>London</hi> concealed, till ſuch time as they ſhould receive Orders to repair to <hi>Oxford;</hi> but the ſurpriſing News of the Diſſolution of the Parlia<g ref="char:EOLhyphen"/>men, which was not ſuſpected ſo ſoon, cauſed them to diſperſe; he farther Swore, That the Earl declared, That the King had a deſign to bring in POPERY; and That he was a great Encourager of Papiſts.</p>
+            <p>
+               <hi>Brian Hains</hi> depoſed, That the Earl of <hi>Shaftsbury</hi> told him, That the King was a man of no Faith, and therefore not to be Truſted, That he was an encourager of Popery, and that he might be depoſed, if he refuſed to comply with his Par<g ref="char:EOLhyphen"/>liament; and, That there was a deſign on foot, to extirpate the Royal Family, and turn the Kingdom into a Common-wealth, after the manner of <hi>Holland,</hi> when as the People might enjoy more Liberty, and live Happier; That the Earl (up<g ref="char:EOLhyphen"/>on ſome diſcourſe about his Majeſty) asked him, Whether he thought there was no other Family in <hi>England</hi> that had right to the Crown? to which he anſwered, He knew none: whereupon his Lordſhip replied, the D. of <hi>B.</hi> in right of his Mother, who deſcended of the <hi>Plantagenets,</hi> ought to be Baron of <hi>Roſs,</hi> and had as much right to it, as any of the Family of the <hi>Stuarts;</hi> That the Earl or<g ref="char:EOLhyphen"/>dered him to draw up an Information againſt the Earl of <hi>Danby,</hi> to accuſe him as privy to the Murther of Sir <hi>Edmundbury Godfrey,</hi> telling him, That he would pro<g ref="char:EOLhyphen"/>cure him a Pardon, and, That if the King denied to grant it, all the Nation would be up in Arms, that moſt of the people about <hi>Wapping</hi> and <hi>Alderſgate</hi>-ſtreet, would ſurely ſtand for his ſide, and farther he Depoſed, He did draw up an In<g ref="char:EOLhyphen"/>formation, but never Swore to it, &amp;c.</p>
+            <p>
+               <hi>John Smith</hi> being Sworn, before he gave his Evidence, deſired to ſpeak a word or two in his own Vindication, and then declared, That it had been reported he was SUBORNED: againſt which he made ſeveral Proteſtations, whereupon the Court ordered him to give his Evidence: when as he Depoſed, That he had been with the Earl ſeveral times, and that one night he ſent for him, from Mr. <hi>Bethels</hi> Club, and held a long diſcourſe with him about the Methods he had taken to altar the Government, and about the Meeting of the Parliament at <hi>Oxford,</hi> and how the deſign went on, and that he feared <hi>Fitz-Gerald,</hi> would turn about to the Court party, and by that means induce others to do the like: which might be diſadvantagious to the whole deſign: therefore he deſired him to keep them ſteadfaſt, he likewiſe Depoſed: That at ſeveral other times he had been to wait upon his Lordſhip, and had had Diſcourſes of the like Nature, and that ſeveral Sums of Money had been diſtributed, and large Promiſes made, &amp;c.</p>
+            <p>
+               <pb n="5" facs="tcp:41593:3"/>
+The other Evidences were <hi>Edward Turbervile, Edward Ivie, John Macknamarre, Denis Macknamarre,</hi> and <hi>Bernard Denis,</hi> who Depoſed that the Earl ſhould ſay, He would not give over till he had turned this Kingdom into a Com<g ref="char:EOLhyphen"/>mon-wealth; after the manner of <hi>Holland;</hi> and that the King deſerved as much to be Depoſed as <hi>Richard</hi> the Se<g ref="char:EOLhyphen"/>cond; and that as his Father had been led by a Popiſh Queen, ſo had his Majeſty by Popiſh Counſels; that ſeveral Lords who were named muſt be removed, and that the Dutcheſs of <hi>Mazarine</hi> was his Cabinet Counſel; that the Earl incited <hi>Barnard Denis</hi> to go over into <hi>Ireland,</hi> &amp; bid the <hi>Iriſh</hi> that were his Friends, to be ready to ſtand for their Li<g ref="char:EOLhyphen"/>berties, which the ſaid <hi>Denis</hi> Depoſed were about 400 in all of the ſame Name. And farther, That he promiſed him a Benefice, he being a Secular Prieſt, and that in the mean time he ſhould wear a Black Gown. And farther, ſome of them Depoſed, That the Earl perſwaded them to Swear againſt the Queen and the Duke of <hi>York,</hi> promiſing them large Rewards. That he ſaid the King was Popiſhly inclined. That they were all of them to be preferred according to their Capacities, ſo ſoon as the Deſign had taken effect; with many other particulars too tedious to recite. When theſe before-mentioned had given their Evidence, Mr. <hi>Fiiz-Gerald</hi> was called; bnt Mr. Attorney-General ſaying there was e<g ref="char:EOLhyphen"/>nough, he did not appear to give Evidence.</p>
+            <p>Having thus far proceeded, the Court directed the Jury to go and conſider of what had been Sworn, and then Adjour<g ref="char:EOLhyphen"/>ned till after Dinner, whenas the Judges (who were Eleven in all) being ſeated, the Evidence were brought in one by one, to be Examined to ſuch particulars as the Jurors ſhould think fit, and ordered to anſwer the ſame without any Re<g ref="char:EOLhyphen"/>partees, or haſty Replies; the Court declaring, That they believed the Gentlemen of the Jury ſuch, as they would not ask them any thing, but what was convenient, and to the purpoſe.</p>
+            <p>
+               <hi>Booth</hi> being called and ſet up, he was demanded upon what account he came to have ſuch Diſcourſe with the Earl; he ſaid, by being introduced by <hi>Wilkinſon,</hi> and upon his re<g ref="char:EOLhyphen"/>commendation that he was a man fit for ſuch ſervice. Then being asked whether he was Liſted, he replyed, yes, and that he had procured him a Stone-horſe, and furniſhed himſelf with other neceſſaries. Then he was asked whether he had not been Condemned for Clipping; and whether he had ob<g ref="char:EOLhyphen"/>tained
+<pb n="6" facs="tcp:41593:4"/>
+his Majeſties Pardon to the latter? he anſwered in the Affirmative; but as to the former, he ſaid he was not bound to declare. Then being asked whether he was a Miniſter in Orders, or whether he had a Benefice? he ſaid he had one formerly, but not at preſent; and as to his being in Orders, it was nothing to the matter in queſtion. Theſe and many ſuch like queſtions were demanded, as to time and place, when and where ſuch diſcourſe ſhould happen; to which (as he ſaid) as far as he could charge his memory, he anſwered; and being asked why he had not made the Diſcovery ſooner, he ſaid, he thought not to do it at all, for that he thought it was a matter too ponderous for him to carry on alone; but when he found there were other Witneſſes to the ſame pur<g ref="char:EOLhyphen"/>poſe, he thought it time to reveal his knowledge.</p>
+            <p>
+               <hi>Dennis Macknamarra</hi> being croſs Examined, and ſeveral queſtions put to him, where the Earl did ſpeak ſuch and ſuch words, he ſaid in his Dining-room, at his own houſe in <hi>Alderſgate-ſtreet;</hi> then was he asked where his Dining-room ſtood; he replyed, Up one pair of ſtairs on the right hand; and in that, as the Jury obſerved, he was miſtaken, for the Dining-room at his ſaid Houſe, is right forward below ſtairs. Being asked whether any body was by when the words were ſpoke, or whether they were ſpoke aloud, or whiſpered; he ſaid there was no perſon by, and that he ſpoke it alowd; but the Jurors peruſing their Notes, ſound ſome variation as to that particular; the words were, that the Earl of <hi>Shafteſ<g ref="char:EOLhyphen"/>bury</hi> ſhould ſay, He would take the Crown off the Kings Head and put it upon his own, and ſo reduce the Kingdom to a Republick.</p>
+            <p>
+               <hi>John Smith</hi> being asked whether he went, or had not gone by any other Name, he replyed, That he being a Popiſh Prieſt, was forced to make uſe of ſundry Names for his own ſecurity, which was the uſual way of all Popiſh Prieſts; then being demanded who induced him to give his Information, he ſaid no body, he did it voluntarily, without the leaſt incita<g ref="char:EOLhyphen"/>tion thereto, and that he delivered it to Mr. Secretary <hi>Jenkins.</hi>
+            </p>
+            <p>Then <hi>Bernard Dennis</hi> being brought in, he was examined or rather interrogated upon the Evidence he had before gi<g ref="char:EOLhyphen"/>ven, as indeed they were all. The Jury asked him how he came to be ſo well acquainted with the Earl of <hi>Shaftsbury:</hi> He ſaid, Upon the account of the deſign that was carrying on, and that he had had ſeveral Conferences with his Lord<g ref="char:EOLhyphen"/>ſhip alone; and that he had told him the People of <hi>Ireland</hi>
+               <pb n="7" facs="tcp:41593:4"/>
+were hardly dealt withal, and that under the Government of a Commonwealth they ſhould live far better, or to that pur<g ref="char:EOLhyphen"/>poſe. Then being demanded whether he had been in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> to ſpeak to his Kindred he had formerly mentioned, he ſaid, He had made ſome of them acquainted with what was intended. Being asked whether he was to find them Arms, he ſaid, No, he was not in a condition to do any ſuch thing.</p>
+            <p>Upon theſe and ſuch-like Queſtions, were the reſt inter<g ref="char:EOLhyphen"/>rogated; who affirmed, that they had given their Informa<g ref="char:EOLhyphen"/>tions (voluntarily, and without any compulſion) to Mr. Secretary <hi>Jenkins;</hi> and that they had no prejudice againſt the Earl, but did it upon the account of their Conſcience. Some of them being demanded, whether in any other places, or at any other time than what they had mentioned, they had heard the Earl ſpeak any treaſonable words; to which they anſwered, No, not as they remembered.</p>
+            <p>Upon the full hearing of the Witneſſes aforeſaid, about eight hours were ſpent, whenas the Court ſumming up what had been ſworn, the Jury went out to conſider of the Evi<g ref="char:EOLhyphen"/>dence. When upon ſome of the Witneſſes complaints to the Court, that the People had abuſed them, and they went in danger of their lives; the Lord Chief Juſtice ordered the Sheriffs, at their peril, to ſecure them with a ſufficient Guard through <hi>Temple-bar,</hi> and then they were out of the City: for if they came to any harm, they ſhould anſwer it, or to that effect. Whereupon the Officers of both Compters were ſent for to attend with their Javelings; who accor<g ref="char:EOLhyphen"/>dingly came and received them under their protection: yet could they ſcarcely defend them from the fury of the Rabble, who run after the Coach in which they were, calling them, <hi>Tories, Bogtrotters,</hi> and the like; and in <hi>Fleet-ſtreet</hi> endea<g ref="char:EOLhyphen"/>voured to pull them out of the Coach, &amp;c.</p>
+            <p>After the Jury had conſidered the Evidence about the ſpace of an hour and half, they returned, and delivered the Bill to the Clerk; who after he had asked them whether they were all agreed, and content that the Court ſhould mend any matter or falſe Latine, altering no manner of ſub<g ref="char:EOLhyphen"/>ſtance, without their privity, he told the Court, That it was found <hi>IGNORAM<g ref="char:V">Ʋ</g>S.</hi> Upon which, Mr. Attorney Gene<g ref="char:EOLhyphen"/>ral prayed the Jury might be recorded. Upon the Bill's be<g ref="char:EOLhyphen"/>ing ſo returned, there was ſuch a Shout, not onely in the Court, but in the Yard, that there was no hearing any word for the ſpace of a quarter of an hour. When the noiſe being
+<pb n="8" facs="tcp:41593:5" rendition="simple:additions"/>
+pretty well ſtilled, the Court demanded whether they did not think the words Treaſon? they anſwered they did, but could not credit the Evidence, or to that effect. And after ſome other words had paſſed, the Court Adjourned till the Fifth of <hi>February</hi> next. One thing more is to be obſerved, the ſhout beginning in the Seſſions-houſe, was carried quite through the City in leſs than an hours time, and within two hours afterwards, Bonfires were made in moſt ſtreets of the City and Liberties. The Bells rung in ſome places, and the Rabble obliged the Coachmen to put off their Hats to the fires, and ſay, God bleſs the Earl of <hi>Shaftesbury;</hi> a thing which has not been known upon any ſuch occaſion.</p>
+            <div type="part">
+               <head>
+                  <hi>November</hi> 28. 1681.</head>
+               <p>THis being the laſt day of the Term, the Right Honourable <hi>Anthony</hi> Earl of <hi>Shaftsbury, William</hi> Lord <hi>Howard</hi> Baron of <hi>Eſcrick,</hi> Mr. <hi>John Wilmore,</hi> and Mr. <hi>Edward Whittacre,</hi> were brought from the Tower of <hi>London</hi> by the Lieutenant and a Guard of Halberts, in order to their being Bailed, according the Act of the 13th of his preſent Majeſty: Whereupon Mr. <hi>Williams</hi> moved the Court in the behalf of the Earl, and ſatisfied them that Mr<g ref="char:punc">▪</g> Attorney General had be<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n waited upon on that occaſion; whenas the Warrant of his Commitment for High-Treaſon, dated the ſe<g ref="char:EOLhyphen"/>cond of <hi>July,</hi> was read and ordered to be filed. After which his Lordſhip inſiſted upon being ſet at liberty without giving in Bail ſaying, That he had had hard mea<g ref="char:EOLhyphen"/>ſure, and had been falſely ſcandaled by having ſuch things laid to his charge as he was altogether ignorant of. But the Court declaring that they could not ſet him at liberty without his giving Bail his Lordſhip nominated his Grace the Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> Sir <hi>William Cooper,</hi> Sir <hi>John Sidnam, Francis Charlton</hi> 
+                  <abbr>Eſq</abbr> who were bound ſeverally in the Penalties of 1500 <hi>l.</hi> a piece, and his Lordſhip in the ſum of 3000 <hi>l.</hi> to appear the firſt day of the next Term, and not to depart without leave of the Court.</p>
+               <p>Next the Lord <hi>Howard</hi>'s two Warrants of Commitment for High-Treaſon were read, being dated the 14th of <hi>June,</hi> and ordered to be filed. His Lordſhip alleadged, that he ought to have had the benefit of the laſt Term, there being a Bill preferred a<g ref="char:EOLhyphen"/>gainſt him; but the Court told him, they could take no notice of that, by reaſon it was withdrawn. Then his Lordſhip named his Bail, which were, the Right Honou<g ref="char:EOLhyphen"/>rable the Earl of <hi>Kent,</hi> the Lord <hi>Glare,</hi> the Lord <hi>Gray,</hi> and the Lord <hi>Herbert;</hi> the pe<g ref="char:EOLhyphen"/>nallſums being exactly as the former. Then Mr. <hi>John Wilmore</hi>'s Warrant of Com<g ref="char:EOLhyphen"/>mitment being read, and ordered to be filed, Mr. Attorney declaring he had nothing againſt him, his Bail were called into Court, whoſe names are as followeth: <hi>James Rawlings, William Jacob, Nicholas Grigſon,</hi> and <hi>Alexander Probe;</hi> who were bound in <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>500 <hi>l.</hi> apiece, and himſelf in 3000 <hi>l.</hi> Then Mr. <hi>Edward Whittacre</hi> (whoſe Warrant of Commitment being read and filed, as the former) produced his Bail, <hi>viz. John Jekins, Zachariah Bourn, Samuel Smith,</hi> and <hi>Thomas Wicks;</hi> being all bound in the aforeſaid Penalty for him to appear the firſt day of the next Term, and ſo <hi>die in diem,</hi> till the ſaid Bail ſhould be diſcharged. Upon my Lord <hi>Howards,</hi> Mr. <hi>Wil<g ref="char:EOLhyphen"/>mores,</hi> and Mr. <hi>Whittakres</hi> refuſing to pay ſuch Fees as the Lieutenant demanded, he complained to the Court, but they told him he muſt take his courſe at Law; they could not oblige them to pay it, unleſs they were willing: Upon which my L. <hi>Howard</hi> ſaid; That he knew no ſuch Fees due as was demanded, nor would he pay them<g ref="char:punc">▪</g> un<g ref="char:EOLhyphen"/>leſs they appeared due upon Trial and offered to give an Appearance; which being accepted, he nominated Mr. <hi>R. Goodenough</hi> his Attorney. The like did Mr. <hi>Wilmore.</hi> But Mr. <hi>Whittacre</hi> being an Attorney of the <hi>Common-Pleas,</hi> the proceedings againſt him were referred to that Court. After this, <hi>Samuel Wilſon</hi> was brought from the Gate-houſe, and bailed accordingly.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Roger Evens.</hi> 1681.</p>
+            <pb facs="tcp:41593:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
